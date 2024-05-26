@@ -2,6 +2,13 @@ This is a simply prototype help to fetch data from Canvas, creating csv file and
 
 Project is created by pycharm with a virtural working environment in python 3.12
 
+## Functions
+
+1. Mock random students data
+2. Fetch students' data in format
+3. Generate csv file
+4. Automate mail sending
+
 
 ## Acknowledgements
 
