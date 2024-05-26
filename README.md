@@ -3,17 +3,28 @@ This is a simply prototype help to fetch data from Canvas, creating csv file and
 Project is created by pycharm with a virtural working environment in python 3.12
 
 
+## Acknowledgements
+
+ - [Canvas API](https://canvasapi.readthedocs.io/en/stable/getting-started.html)
+ - [Gmail setting up](https://support.google.com/accounts/answer/185833?hl=en)
+ - [Gmail automation](https://www.mailmodo.com/guides/python-email-automation/)
+  - [Pycharm](https://www.jetbrains.com/help/pycharm/getting-started.html)
 
 
+## Appendix
 
-folders:
+Folders:
 
 data contains mocked listed/random created students data
 
 utils contains main functions that help to create report and send emails to deans
+   
+## Authors
+
+- [@James Wu](https://github.com/JamesCCoder)
 
 
-notes:
+## Demo
 
 1. Make sure the SMRT connection is valid
 <img width="800" alt="WeChata3e994d54a1bb5105a12518dc0b50be7" src="https://github.com/JamesCCoder/students_report/assets/95759159/f046f488-a8e2-4e44-9144-ccf30d158ec4">
@@ -23,11 +34,3 @@ notes:
 
 
 <img width="600" alt="WeChatcd0384065cc74d18a13ef8046e4df1a7" src="https://github.com/JamesCCoder/students_report/assets/95759159/ea54dd98-f4a6-4f78-9acc-f11f73f7a7b6">
-
-3. Related documentation
-   Canvas API:https://canvasapi.readthedocs.io/en/stable/getting-started.html
-   Gmail setting up:https://support.google.com/accounts/answer/185833?hl=en
-   Gmail automation:https://www.mailmodo.com/guides/python-email-automation/
-   Pycharm: https://www.jetbrains.com/help/pycharm/getting-started.html
-   
-
