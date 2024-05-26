@@ -1,6 +1,6 @@
 # Email config
 EMAIL_USER = 'justinwpro@gmail.com'
-EMAIL_PASS = 'vnna fqks spto wrao'
+EMAIL_PASS = 'test'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587  # Add your email port
 
