@@ -21,9 +21,9 @@ def send_email(subject, body, to, file_path, email_user, email_pass, email_host,
     part = MIMEBase('application', 'octet-stream')
     with open(file_path, 'rb') as file:
         part.set_payload(file.read())
-    encoders.encode_base64(part)
-    part.add_header('Content-Disposition', f'attachment; filename={os.path.basename(file_path)}')
-    msg.attach(part)
+        encoders.encode_base64(part)
+        part.add_header('Content-Disposition', f'attachment; filename={os.path.basename(file_path)}')
+        msg.attach(part)
 
     # Link to SMTP server and send email
     try:
