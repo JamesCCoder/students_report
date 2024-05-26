@@ -24,5 +24,10 @@ notes:
 
 <img width="600" alt="WeChatcd0384065cc74d18a13ef8046e4df1a7" src="https://github.com/JamesCCoder/students_report/assets/95759159/ea54dd98-f4a6-4f78-9acc-f11f73f7a7b6">
 
-
+3. Related documentation
+   Canvas API:https://canvasapi.readthedocs.io/en/stable/getting-started.html
+   Gmail setting up:https://support.google.com/accounts/answer/185833?hl=en
+   Gmail automation:https://www.mailmodo.com/guides/python-email-automation/
+   Pycharm: https://www.jetbrains.com/help/pycharm/getting-started.html
+   
 
